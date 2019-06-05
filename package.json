@@ -1,0 +1,22 @@
+{
+  "name": "webio",
+  "version": "1.0.0",
+  "description": "Live guru prj",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "TrungTo",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^5.9.6",
+    "webdriverio": "^5.9.6"
+  },
+  "devDependencies": {
+    "@wdio/junit-reporter": "^5.9.3",
+    "@wdio/local-runner": "^5.9.6",
+    "@wdio/mocha-framework": "^5.9.4",
+    "@wdio/sync": "^5.9.6"
+  }
+}
