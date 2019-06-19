@@ -1,0 +1,4 @@
+--recursive
+--timeout 600000
+--reporter mochawesome
+--reporter-options overwrite=true,reportTitle=DeTox\ Test\ Result,quiet=true,charts=true,code=false,saveHtml=true,showSkipped=true,reportFilename=Andmowa_iOS

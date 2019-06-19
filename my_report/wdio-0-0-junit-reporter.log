@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="Login_flow" timestamp="2019-06-05T22:20:43" time="10.139" tests="1" failures="0" errors="0" skipped="0">
-    <properties>
-      <property name="specId" value="0"/>
-      <property name="suiteName" value="Login flow"/>
-      <property name="capabilities" value="chrome.74_0_3729_169.macosx"/>
-      <property name="file" value="./src/testcase/G001_LoginFlow.js"/>
-    </properties>
-    <testcase classname="chrome.74_0_3729_169.macosx.Login_flow" name="Login_ok" time="0.248"/>
-  </testsuite>
-</testsuites>
+<testsuites/>
